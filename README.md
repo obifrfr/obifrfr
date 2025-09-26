@@ -1,12 +1,8 @@
 # Obi Ifediba
 
 <h3 align="center"> Statistics • R • Python </h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img [![Current Tech Stack]()](https://skillicons.dev)] />
-  </a>
-</p>
 
+## My Current Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=r,py,latex,ubuntu" />
