@@ -1,4 +1,4 @@
-<h2 align="center"> Obi Ifediba </h2>
+<h1 align="center"> Obi Ifediba </h1>
 
 <h3 align="center"> Statistics • R • Python </h3>
 
