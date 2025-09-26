@@ -2,6 +2,8 @@
 
 <h3 align="center"> Statistics • R • Python </h3>
 
+[![Current Tech Stack](https://skillicons.dev/icons?i=r,py,latex,ubuntu)](https://skillicons.dev)
+
 <p align="center">
   <a href="https://www.linkedin.com/in/obi-ifediba"><img src="https://img.shields.io/badge/My-LinkedIn-blue"/></a>
   &nbsp
