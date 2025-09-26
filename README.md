@@ -1,8 +1,8 @@
-# Obi Ifediba
+<h3 align="center"> # Obi Ifediba
 
 <h3 align="center"> Statistics • R • Python </h3>
 
-## My Current Stack
+<h3 align="center"> ## My Current Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=r,py,latex,ubuntu" />
