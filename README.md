@@ -1,6 +1,6 @@
 <h1 align="center"> Obi Ifediba </h1>
 
-<h3 align="center"> Statistics • R • Python </h3>
+<h3 align="center"> Statistics • R • Python • SQL </h3>
 
 <h3 align="center"> My Current Stack </h3>
 
